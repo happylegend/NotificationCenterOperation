@@ -15,7 +15,7 @@
     self = [super init];
     if (self)
     {
-        
+        NSLog(@"women");
     }
     
     return self;
